@@ -63,16 +63,16 @@ To run the simulation:
 Example (using Icarus Verilog):
 
 
-##Future Improvements
+## Future Improvements
 1.Support for J-type instructions (e.g., j, jal)
 2.Implementation of pipelining for performance enhancement
 3.Hazard detection and forwarding unit
 4.Extended instruction support (e.g., ori, lui, bne)
 
-##License
+## License
 This project is open-source and is licensed under the MIT License.
 
-##Credits
+## Credits
 This project was created as part of a study on computer architecture and digital design. It is inspired by the MIPS architecture described in standard textbooks such as Computer Organization and Design by Patterson and Hennessy.
 
 
